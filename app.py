@@ -1,5 +1,5 @@
 import streamlit as st
-from fastai import *
+from fastai.vision.all import *
 from fastai.vision.all import PILImage
 from fastai.learner import load_learner
 import plotly.express as px
